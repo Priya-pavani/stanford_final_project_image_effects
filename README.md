@@ -122,7 +122,7 @@ This is my project Which I am going to submit as a final project in Stanford's C
             2) Same thing happens when you try to save the file with out opening any file  
     The error message box looks like this............................................................
       
-      ![Python 3 10 6_14_2023 12_17_50 AM](https://github.com/Priya-pavani/stanford_final_project_image_effects/assets/112808827/e2c91030-f72b-49fb-9d4a-5112ae84b95a)
+![Python 3 10 6_14_2023 12_17_50 AM](https://github.com/Priya-pavani/stanford_final_project_image_effects/assets/112808827/e2c91030-f72b-49fb-9d4a-5112ae84b95a)
 
 
 There are so many more to come.............................
